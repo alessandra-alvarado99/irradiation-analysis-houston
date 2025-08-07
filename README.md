@@ -5,8 +5,11 @@ This project aims to estimate and compare the annual solar irradiation (kWh/m²)
 
 ## Parameters Used (via PVGIS API): 
 - **Latitude and Longitude**: Used to represent key Houston area zones (e.g., Midtown, Galleria).
+- 
 -**Peak Power**: Set to 1 kWp to normalize irradiation values.
+  
 -**Loss Factor**: 14% default system loss to approximate real-world PV losses.
+
 -**E_y**: Total yearly energy product estimate (used to derive KWh/m²).
 
 ## Metrics Explained
