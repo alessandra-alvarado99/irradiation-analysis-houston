@@ -19,6 +19,6 @@ This project aims to estimate and compare the annual solar irradiation (kWh/m²)
 - **Power BI**: Used for creating geographic and comparative visualizations.
 
 ## Files
-- **Main.py** : Main script for collecting irradiation data.
+- **solar_irradiation_analysis.py** : Main script for collecting irradiation data.
 - **solar_irradiation_houston_zones.csv**: Output CSV ready for visualization.
 
